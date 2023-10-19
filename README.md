@@ -17,7 +17,7 @@
 ![](RANK.PNG)
 
 ## USING ROW NUMBER
-### From the syntax below, you will notice row number assigns a unique value to each row 
+### From the syntax below, you will notice row number assigns a unique value to each row regardless of whether they have matching values or not
 ### Row number does not handle ties
 
 ![](ROWNUM.PNG)
